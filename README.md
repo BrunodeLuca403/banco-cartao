@@ -1,4 +1,4 @@
-# Paraná Banco — Cartão de Crédito
+# Banco — Cartão de Crédito
 
 Microsserviço que consome o evento `PropostaGerada` e emite os cartões de crédito
 conforme a faixa aprovada. É o fim do fluxo de concessão de crédito.
